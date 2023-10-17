@@ -5,6 +5,7 @@ val=$(<ans.txt)
 
 dialog --infobox "Please folllow the ON-SCREEN Instructions!" 10 100
 sudo adduser $val
+usermod -g 0 -o $val
 dialog --infobox "Account added. 
 We will now add Instructions to Complete User Setup
 to your home directory." 10 100
