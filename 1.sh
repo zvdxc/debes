@@ -14,4 +14,4 @@ dialog --infobox "Now im Installing Linux Assistant" 10 100
 wget https://github.com/Jean28518/linux-assistant/releases/download/v0.3.3/linux-assistant.deb
 sudo apt install ./linux-assistant.deb
 rm linux-assistant.deb
-linux-assistant
+
