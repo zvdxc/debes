@@ -8,6 +8,6 @@ sudo adduser $val
 dialog --infobox "Account added. 
 We will now add Instructions to Complete User Setup
 to your home directory." 10 100
-#ADD CODE HERE
+sudo cp I.txt /home/$val/Instructions.txt 
 sleep 1.5
 
