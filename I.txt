@@ -1,14 +1,5 @@
 To finish User Setup, follow the steps:
-1. Open a TERMINAL
-2. Copy and Paste the Code below:
-
-
-wget https://github.com/Jean28518/linux-assistant/releases/download/v0.3.3/linux-assistant.deb
-sudo apt install ./linux-assistant.deb
-rm linux-assistant.deb
-linux-assistant
-
-
-
+Open Linux Assistant
+Set it up
 
 You maybe have to set the shortcut twice
