@@ -11,8 +11,8 @@ We will now add Instructions to Complete User Setup
 to your home directory." 10 100
 sudo cp I.txt /home/$val/Instructions.txt 
 sleep 3.5
-dialog --infobox "Now im Installing Linux Assistant" 10 100
-wget https://github.com/Jean28518/linux-assistant/releases/download/v0.3.3/linux-assistant.deb
+dialog --infobox "Now i am installing Linux Assistant" 10 100
+wget https://github.com/Jean28518/linux-assistant/releases/download/v0.5.3/linux-assistant.deb
 sudo apt install ./linux-assistant.deb
 rm linux-assistant.deb
 
